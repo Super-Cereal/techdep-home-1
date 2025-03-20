@@ -2,7 +2,7 @@
 
 ## Верстка страницы Dashboar на ReactJS
 
-Вам даны макеты ([Figma](https://www.figma.com/design/NUPc1Fsb4U8OO9Y9qnfpE7/Untitled?node-id=2124-109&t=PrzwAd7rQ5DGPJDv-0)) и обьект данных со списком обьектов () типа Test:
+Вам даны макеты ([Figma](https://www.figma.com/design/NUPc1Fsb4U8OO9Y9qnfpE7/Untitled?node-id=2124-109&t=PrzwAd7rQ5DGPJDv-0)) и массив обьектов типа Test:
 
 ```ts
 type Status = "DRAFT" | "ONLINE" | "PAUSED" | "STOPPED";
