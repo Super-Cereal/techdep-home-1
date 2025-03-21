@@ -2,7 +2,7 @@
 
 ## Верстка страницы Dashboar на ReactJS
 
-Вам даны макеты ([Figma](https://www.figma.com/design/NUPc1Fsb4U8OO9Y9qnfpE7/Untitled?node-id=2124-109&t=PrzwAd7rQ5DGPJDv-0)) и массив обьектов типа Test:
+Вам даны макеты ([Figma](https://www.figma.com/design/s6LnIOGnAL66udpnZa5ZH7/Techdep-React)) и массив обьектов типа Test:
 
 ```ts
 type Status = "DRAFT" | "ONLINE" | "PAUSED" | "STOPPED";
@@ -31,7 +31,7 @@ interface Task {
     - index.html
     - src/components/app
     - src/components/header
-- Разделить визуально страницу с [макета](https://www.figma.com/design/NUPc1Fsb4U8OO9Y9qnfpE7/Untitled?node-id=2124-109&t=PrzwAd7rQ5DGPJDv-0) на компоненты так, чтобы как можно меньше дублировать код и чтобы любые файлики были не больше 50-100 строк (на макетах есть некоторые из компонентов)
+- Разделить визуально страницу с [макета](https://www.figma.com/design/s6LnIOGnAL66udpnZa5ZH7/Techdep-React) на компоненты так, чтобы как можно меньше дублировать код и чтобы любые файлики были не больше 50-100 строк (на макетах есть некоторые из компонентов)
   - сверстать все компоненты (пиксель перфект не надо, быстрее будет чисто на глаз)
 - Табличка со списком обьектов
   - hover на обьект добавляет тень с помощью css
