@@ -2,6 +2,18 @@
 
 В этой домашке мы продолжаем делать страницу Dashboard. Теперь вместо фейковых данных будем использовать данные с бекенда. А так же реализуем оптимальную сортировку столбцов.
 
+## Материалы для изучения
+
+Видосики по 10 минут:
+
+- React Reconciliation – https://rutube.ru/video/89148e39b322c985c11d600322b5519f/
+- Все ли вы знаете о React key? – https://rutube.ru/video/59a0662c02d6f96deb92bc94ec8441a3/
+- Блок схема по использованию memo(). Боевые примеры – https://rutube.ru/video/ae8264b6afb11e3883e42c7d3cb599c0/
+- Best Practices for useEffect by React Documentation – https://rutube.ru/video/43b70ee3bbc933d5e60f90488fdaf8c2/
+
+Примеры кода с нашего занятия [Процесс рендеринга компонентов, useEffect, классовые компоненты](./src/_examples/)
+
+
 ### Нужно сделать:
 
 Если в вашем локальном репозитории нет папочки server, то надо сделать `git pull origin main`

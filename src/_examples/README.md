@@ -61,6 +61,3 @@ class Welcome extends React.Component<{ name: string }> {
 Вдаваться в подробности не будем, работают они примерно так же как функциональные, НО в них нет хуков. Нет useState, useEffect и всего что начинается на use. Вместо них методы жизненного цикла componentDidMount, componentDidUpdate, componentWillUnmount и так далее.
 
 *код*
-
-## Материалы для изучения
-
