@@ -1,0 +1,30 @@
+.app {
+  margin: 20px;
+
+  padding: 8px;
+  outline: 3px solid white;
+}
+
+.header {
+  margin: 20px;
+  padding: 8px;
+  outline: 3px solid #ff3344;
+}
+
+.main {
+  margin: 20px;
+  padding: 8px;
+  outline: 3px solid #33dd44;
+}
+
+.footer {
+  margin: 20px;
+  padding: 8px;
+  outline: 3px solid #3344ff;
+}
+
+button {
+  cursor: pointer;
+  padding: 4px 8px;
+  margin-left: 8px;
+}
